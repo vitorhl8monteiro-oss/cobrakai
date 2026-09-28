@@ -1,0 +1,117 @@
+ * {
+     margin: 0%;
+     padding: 0%;
+     box-sizing: border-box;
+
+
+ }
+
+
+
+
+ header {
+     background-color: rgb(228, 29, 29);
+     width: 100%;
+     height: 300px;
+     text-align: center;
+
+
+
+ }
+
+
+ a {
+     font-size: 30px;
+     /* tamanho dos nomes */
+     color: aliceblue;
+     /* cor dos nomes */
+     background-color: chocolate;
+     /* cor fundo dos nomes */
+     padding: 15px;
+     /* tamanho borda */
+     border-radius: 50px;
+     /* borda redonda */
+     margin: 90px;
+     /* espaço dos nomes */
+
+
+
+ }
+
+ nav {
+     margin-top: 2%;
+     /* jogando os nomes pata baixo*/
+
+
+ }
+
+ #Banner {
+     width: 100%;
+     height: 700px;
+     background-image: url(./imagens/referencia.png);
+     background-position: top;
+     background-size: cover;
+ }
+
+ #paragrafo {
+
+     padding: 200px;
+     width: 650px;
+     font-size: 25px;
+
+
+ }
+
+ img {
+     width: 120px;
+ }
+
+ .card {
+     text-align: center;
+     width: 400px;
+     height: 350px;
+     background-color: blue;
+     margin: 15px;
+     display: inline-block;
+     color: aliceblue;
+     border-radius: 30px;
+
+
+ }
+
+ #titu-personagens {
+     text-align: center;
+     width: 25%;
+     background-color: rgb(212, 91, 91);
+     text-align: center;
+     margin-left: 35%;
+ }
+
+
+
+
+
+ #arcos {
+     width: 100%;
+     height: 350px;
+     background-color: orangered;
+ }
+
+ .card-arcos {
+     display: inline-block;
+     width: 250px;
+     height: 250px;
+     background-color: brown;
+     border-radius: 30px;
+     border-left: 150px;
+     margin-left: 10%;
+ }
+
+ footer {
+
+     height: 135px;
+     background-color: black;
+     color: aliceblue;
+     text-align: center;
+     font-size: 25px;
+ }
