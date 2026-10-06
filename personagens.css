@@ -1,0 +1,78 @@
+*{
+
+}
+
+#personagensfila1{
+  width: 100%;
+  height: 600px;
+display: flex;
+    justify-content: center;
+
+
+
+
+}
+
+
+img{
+   width: 250px;
+   height: 300px;
+   object-fit: cover;
+   border-radius: 10px;
+
+}
+
+
+.caixas{
+    background-color: brown;
+    margin: 50px;
+    width: 600px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+h2{
+font-size: 35px;
+color: aliceblue;
+text-align: center;
+}
+
+.p{
+    color: aliceblue;
+    background-color: rgb(31, 31, 139);
+    border-radius: 20px;
+   
+    margin: 20px;
+    width: 200px;
+    
+}
+
+
+
+
+
+
+div{
+    display: flex;
+    justify-content: center;
+    width: 300px ;
+    height: 65px;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
